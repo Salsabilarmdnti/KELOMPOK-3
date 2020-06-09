@@ -3,12 +3,12 @@ projek kelompok 3
 
 Nama Anggota 
 
-NIM : 12181927
-Nama : Yoga Saputra
+NIM : 12180807
+Nama : Salsabila Ramadanti
 
 
-NIM : 12180807 
-Nama :Salsabila Ramadanti
+NIM : 12181927 
+Nama :yoga Saputra
 
 
 NIM : 12183943
